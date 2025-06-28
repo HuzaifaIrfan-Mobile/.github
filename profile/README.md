@@ -23,6 +23,7 @@
 <tr>
     <td align='center' width="200">
         <img src="https://upload.wikimedia.org/wikipedia/commons/a/a4/Android_2023_3D_logo_and_wordmark.svg">
+        Android
     </td>
 </tr>
 </table>
@@ -33,6 +34,7 @@
 <tr>
     <td align='center' width="200">
         <img src="https://upload.wikimedia.org/wikipedia/commons/4/44/Google-flutter-logo.svg">
+        Flutter
     </td>
 </tr>
 </table>
@@ -44,6 +46,7 @@
 <tr>
     <td align='center' width="200">
         <img src="https://upload.wikimedia.org/wikipedia/commons/f/fe/Dart_programming_language_logo.svg">
+        Dart
     </td>
 </tr>
 </table>
